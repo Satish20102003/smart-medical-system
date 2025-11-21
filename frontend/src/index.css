@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #F8FAFC; /* Premium Light Gray */
+  color: #1E293B;
+  -webkit-font-smoothing: antialiased; /* Makes text look sharper */
+}
+
+/* Premium Input Fields */
+.input-field {
+  @apply w-full px-4 py-3 rounded-xl border border-gray-200 bg-gray-50 focus:bg-white focus:border-primary focus:ring-4 focus:ring-primary/10 outline-none transition-all duration-200 ease-in-out;
+}
+
+/* Premium Buttons */
+.btn-primary {
+  @apply w-full bg-primary text-white font-semibold py-3.5 rounded-xl hover:bg-indigo-700 active:scale-[0.98] shadow-lg shadow-primary/30 transition-all duration-200;
+}
