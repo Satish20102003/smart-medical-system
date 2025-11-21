@@ -1,6 +1,7 @@
 # Smart Medical System
+![Project Logo](assets/logo.png) <!-- Add your real logo path -->
 
-A comprehensive full-stack medical management platform enabling doctors and patients to manage appointments, treatments, vitals, analytics, AI-driven suggestions, and secure reports. Built using the latest modern web technologies with a clean UI and scalable backend.
+A comprehensive full‑stack medical management platform enabling doctors and patients to manage appointments, treatments, vitals, analytics, AI-driven suggestions, and secure reports. Built using the latest modern web technologies with a clean UI and scalable backend.
 
 ## 🚀 Features
 ### 👨‍⚕️ Doctor Module
@@ -97,7 +98,17 @@ The patient dashboard includes:
 - Oxygen level tracking
 - Doctor insights
 
-## 📸 Screenshots (Add yours here)
+## 📸 Screenshots
+Below are sample placeholders — replace with your real images.
+
+### 🧩 Login Page
+![Login Screenshot](assets/screenshots/login.png)
+
+### 🏥 Patient Dashboard
+![Dashboard Screenshot](assets/screenshots/patient_dashboard.png)
+
+### 👨‍⚕️ Doctor Treatment Page
+![Doctor Screenshot](assets/screenshots/doctor_treatment.png) (Add yours here)
 ```
 ![Dashboard Screenshot](path_to_image)
 ![Login Screen](path_to_image)
@@ -126,6 +137,13 @@ The patient dashboard includes:
 
 ## 🧪 Testing
 Use Postman or Thunder Client to test API routes.
+
+## ⭐ Project Highlights
+- Clean & Modern UI
+- AI-Assisted Engine
+- Full Analytics
+- Secure Authentication
+- Doctor–Patient Collaboration
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
